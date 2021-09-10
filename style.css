@@ -1,1 +1,50 @@
+* {
+    font-family: bebas neue;
+    cursor: pointer;
+    text-align: center;
+}
+
+body {
+
+    background-color: cornflowerblue;
+}
+
+nav a { 
+text-align: right;
+float: right;   
+margin: 20px;
+font-size: 25px;
+
+}
+
+a:hover {
+color: white;
+}
+
+h1 {
+    text-align: center;
+    color: lavenderblush;
+    font-family: bebas neue;
+    font-size: 62px;
+    font-stretch: extra-expanded;
+    border: 24px inset lavenderblush;
+}
+
+p {
+
+    font-size: 24px;
+    color: lavenderblush;
+}
+
+.image {
+
+    border: 24px solid lavenderblush;
+
+}
+
+footer {
+    color: lavenderblush;
+    font-size: 24px;
+
+}
 
