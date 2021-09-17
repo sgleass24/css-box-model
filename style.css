@@ -1,7 +1,7 @@
 * {
     font-family: bebas neue;
     cursor: pointer;
-    text-align: center;
+    
 }
 
 body {
@@ -22,7 +22,7 @@ color: white;
 }
 
 h1 {
-    text-align: center;
+    text-align: left;
     color: lavenderblush;
     font-family: bebas neue;
     font-size: 62px;
